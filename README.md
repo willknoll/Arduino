@@ -1,7 +1,7 @@
 # Arduino
 ---
 
-This is a collection of small Arduino projects, both for testing and practical usage.  
+This is a collection of small Arduino projects, both for testing and practical usage.
 
 ## sketch-FireTruck
 ---
